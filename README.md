@@ -15,6 +15,9 @@ ArtGAN addresses these challenges by incorporating a self-attention mechanism to
 ## Experiments
 We evaluate our proposed method on two different datasets, featuring artworks from Vincent van Gogh and Pablo Picasso. Our experiments show that ArtGAN outperforms baseline methods, including CycleGAN, in terms of visual quality and style transfer fidelity, demonstrating the effectiveness of the attention mechanism in the context of art style transfer. Furthermore, the attention mechanism's ability to adapt to various artistic styles highlights its versatility and potential applicability to a wide range of art domains.
 
+<img src="Images/ArtGAN-Main-1.png" alt="ArtGAN Output" width="200" height="200"> <img src="Images/ArtGAN-Main-2.png" alt="Image Description 2" width="200" height="200">
+<img src="Images/ArtGAN-Main-3.png" alt="ArtGAN Output" width="200" height="200"> <img src="Images/ArtGAN-Main-4.png" alt="Image Description 2" width="200" height="200">
+
 
 ## Links
 [Colab Notebook](https://colab.research.google.com/drive/1RdiFb3f2PJEXHQFulwZDqcPdGGko0r7g?usp=sharing)
