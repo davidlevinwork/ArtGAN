@@ -17,7 +17,3 @@ We evaluate our proposed method on two different datasets, featuring artworks fr
 
 <img src="Images/ArtGAN-Main-1.png" alt="ArtGAN Output" width="200" height="200"> <img src="Images/ArtGAN-Main-2.png" alt="Image Description 2" width="200" height="200">
 <img src="Images/ArtGAN-Main-3.png" alt="ArtGAN Output" width="200" height="200"> <img src="Images/ArtGAN-Main-4.png" alt="Image Description 2" width="200" height="200">
-
-
-## Links
-[Colab Notebook](https://colab.research.google.com/drive/1RdiFb3f2PJEXHQFulwZDqcPdGGko0r7g?usp=sharing)
